@@ -1,5 +1,5 @@
- IP: 84.201.139.198;
- name_taski: https://createtaski.servehttp.com/;
- name_kittygram: https://kittygramdomen.servehttp.com/;
- login: daryapopkova90@yandex.ru;
- password: cherepaha90;
+IP: 84.201.139.198;
+name_taski: https://createtaski.servehttp.com/;
+name_kittygram: https://kittygramdomen.servehttp.com/;
+login: daryapopkova90@yandex.ru;
+password: cherepaha90;
